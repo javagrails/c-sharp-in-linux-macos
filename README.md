@@ -1,2 +1,2 @@
-# c-sharp-in-linux
-how to handle C# in linux OS - how to code C# in linux OS - how to run C# in linux OS
+# c-sharp-in-linux-macos
+how to handle C# in linux OS / macOS - how to code C# in linux OS / macOS - how to run C# in linux OS / macOS
